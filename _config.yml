@@ -26,3 +26,5 @@ researchgate: Joseph_Peterson3
 
 # needed for travis-ci build
 exclude: [vendor]
+
+theme: jekyll-theme-slate
