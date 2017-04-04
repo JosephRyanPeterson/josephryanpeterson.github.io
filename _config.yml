@@ -13,7 +13,7 @@ author: Joseph R. Peterson
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /
 title: Joseph Peterson's Resume
 name: Joseph R. Peterson
 email: jrptrsn3@illinois.edu
