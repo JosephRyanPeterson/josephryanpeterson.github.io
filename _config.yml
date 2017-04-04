@@ -1,0 +1,28 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://josephryanpeterson.github.io/vitae
+author: Joseph R. Peterson
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Joseph Peterson's Resume
+name: Joseph R. Peterson
+email: jrptrsn3@illinois.edu
+email_full: jrptrsn3@illinois.edu
+website: github.io/vitae
+website_full: https://JosephRyanPeterson.github.io
+github: JosephRyanPeterson
+linkedin: joseph-peterson-80a2a444 
+researchgate: Joseph_Peterson3
+
+# needed for travis-ci build
+exclude: [vendor]
